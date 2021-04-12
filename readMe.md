@@ -8,6 +8,7 @@
 - :heart: I love to code, build websites and web applications.
 - :books: Learning new things, self driven, hard working and easy going.:smiley:
 - :camera: Experience 10+ years in Behind the scene TV-Commercials as Casting director.
+- :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 - :electric_plug: **My GOAL: work as a Front-end Developer making beautiful  website **.
 
 
