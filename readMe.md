@@ -11,8 +11,8 @@
 - :electric_plug: **My GOAL: work as a Front-end Developer making beautiful  website **.
 
 ### Contact me on:
-[linkedin]: www.linkedin.com/in/ismiandhykawati
-[medium]: 
+[linkedin]: www.linkedin.com/in/ismiandhykawati/
+
 
  <p>&nbsp;</p>
  
