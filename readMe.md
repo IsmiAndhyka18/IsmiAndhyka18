@@ -10,6 +10,10 @@
 - :camera: Experience 10+ years in Behind the scene TV-Commercials as Casting director.
 - :electric_plug: **My GOAL: work as a Front-end Developer making beautiful  website **.
 
+### Contact me on:
+[linkedin]: www.linkedin.com/in/ismiandhykawati
+[medium]: 
+
  <p>&nbsp;</p>
  
 ### Languages and Tools:
@@ -37,3 +41,5 @@
 - Vue Js
 - React native
 - Laravel
+
+
