@@ -31,6 +31,7 @@
 
 
 ### On My TODO list 🗒 :
+- Wordpress
 - Vue Js
 - React native
 - Laravel
