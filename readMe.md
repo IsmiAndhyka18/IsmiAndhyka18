@@ -30,16 +30,4 @@
  <p>&nbsp;</p>
 
 
-<p>&nbsp;</p>
-
-### 📕 My First Blog Posts
-- [An introduction to using react-form-elements](https://dev.to/ismiandhyka18/an-introduction-of-using-react-form-elements-51ng)
-
-
-### On My TODO list 🗒 :
-- Wordpress
-- Vue Js
-- React native
-- Laravel
-
 ![ismi](ismi.png)
