@@ -1,7 +1,6 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ismi indonesian 🇮🇩 coder based in 📍 Belgium 🇧🇪
 
-### My Portfolio[ISMI ANDHYKAWATI](https://ismi-portfolio.netlify.app/).
 
 - :computer: I'm a Junior Frontend Web Developer with love for design.
 - :heart: I love to code, build websites and web applications.
@@ -10,6 +9,9 @@
 - :tulip: Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 - :electric_plug: **My GOAL: work as a Front-end Developer making beautiful  website **.
 
+
+
+## My Portfolio  [ISMI ANDHYKAWATI](https://ismi-portfolio.netlify.app/).
 
  <p>&nbsp;</p>
  
